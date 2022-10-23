@@ -79,7 +79,7 @@ You can also take a look at [Manga-Slicer](https://github.com/lostie21yo/Manga-S
 3. Choose the folder with images by pressing "Выбрать папку с изображениями"
 
 <div align="center">
-    <img src="screen1.png" alt="interface" width='50%'>
+    <img src="screen1.png" alt="interface" width='40%'>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
