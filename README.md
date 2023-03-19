@@ -42,6 +42,8 @@ Input: user-selected folder with images in png/jpg format
 
 Output: long image (scan) saved as png
 
+Demo video on YouTube [here](https://www.youtube.com/watch?v=4na8KFVoyZM&list=PL4lVqWiqXeK15HICGgnRiJTThgfftHEyt&index=5)
+
 You can also take a look at [Manga-Slicer](https://github.com/lostie21yo/Manga-Slicer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
