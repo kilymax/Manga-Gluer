@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lostie21yo/Manga-Gluer">
+  <a href="https://github.com/kilymax/Manga-Gluer">
     <img src="ico.png" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -44,7 +44,7 @@ Output: long image (scan) saved as png
 
 Demo video on YouTube [here](https://www.youtube.com/watch?v=4na8KFVoyZM&list=PL4lVqWiqXeK15HICGgnRiJTThgfftHEyt&index=5)
 
-You can also take a look at [Manga-Slicer](https://github.com/lostie21yo/Manga-Slicer)
+You can also take a look at [Manga-Slicer](https://github.com/kilymax/Manga-Slicer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@ You can also take a look at [Manga-Slicer](https://github.com/lostie21yo/Manga-S
 
 Your Name - [Telegram](https://t.me/leoncox) - leon.coxsw@gmail.com
 
-Project Link: [Manga-Slicer](https://github.com/lostie21yo/Manga-Gluer)
+Project Link: [Manga-Slicer](https://github.com/kilymax/Manga-Gluer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
